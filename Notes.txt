@@ -1,0 +1,4 @@
+Concepts used in this projects
+
+Spring Data Jpa-CRUD
+Basic Auth
